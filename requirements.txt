@@ -1,0 +1,35 @@
+# ZenithGuardAV - Dependências do Projeto
+
+# Monitoramento de arquivos e sistema
+watchdog>=2.1.9
+psutil>=5.9.0
+
+# Detecção YARA
+yara-python>=4.2.0
+
+# Interface gráfica (tkinter já vem com Python)
+# tkinter - incluído no Python padrão
+
+# Processamento de JSON (já vem com Python)
+# json - incluído no Python padrão
+
+# Hash e criptografia (já vem com Python)
+# hashlib - incluído no Python padrão
+
+# Sistema operacional (já vem com Python)
+# os - incluído no Python padrão
+# shutil - incluído no Python padrão
+# time - incluído no Python padrão
+
+# Para Windows (já vem com Python)
+# ctypes - incluído no Python padrão
+
+# Dependências opcionais para desenvolvimento
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Para distribuição
+setuptools>=65.0.0
+wheel>=0.37.0

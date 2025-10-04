@@ -1,0 +1,47 @@
+[
+  {
+    "name": "iexplore.exe",
+    "path": "C:/Program Files (x86)/Internet Explorer/iexplore.exe",
+    "sha256": "8be630d01ef5a7addfba5d3b375708c911924687092451e7e32a73aab3902d08"
+  },
+  {
+    "name": "Update.exe",
+    "path": "C:/Users/UsuarioADM/AppData/Local/Discord/Update.exe",
+    "sha256": "96c747c19cea3b1e38609dd3ee4ab4712a0a58b53130606b74f22a6b43cd0c83"
+  },
+  {
+    "name": "Code.exe",
+    "path": "C:/Users/UsuarioADM/AppData/Local/Programs/Microsoft VS Code/Code.exe",
+    "sha256": "a4817c0c44157dcd706a95806b483d331754544ddda3f2de80d72d91056f989d"
+  },
+  {
+    "name": "msedge.exe",
+    "path": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe",
+    "sha256": "271e09350f66b71ce6308db2c20e28aaa6356565b6fe60d53c2e65c0f737d1a8"
+  },
+  {
+    "name": "explorer.exe",
+    "path": "C:/Windows/explorer.exe",
+    "sha256": "81d8ea67d17bf48524c82d576f8ddaddb37a218d0566fd7f0aab8b8fbd03f193"
+  },
+  {
+    "name": "bfsvc.exe",
+    "path": "C:/Windows/bfsvc.exe",
+    "sha256": "e20691a83203d50e07185b8810fadc3d120a53343255f173d51b4082c3d75806"
+  },
+  {
+    "name": "notepad.exe",
+    "path": "C:/Windows/notepad.exe",
+    "sha256": "baefafd4c558e8ec66a5772b8ac8dc18d51789ccaf97be5fc66cd63a71caf75c"
+  },
+  {
+    "name": "py.exe",
+    "path": "C:/Windows/py.exe",
+    "sha256": "3e454632fb35fcebe513f5eee00fa413394103bebb2b7818fb001fdb32604965"
+  },
+  {
+    "name": "regedit.exe",
+    "path": "C:/Windows/regedit.exe",
+    "sha256": "64042dd34ca74881ef81354016b6539284bda9f1bc5289158e620e3bf928153f"
+  }
+]
